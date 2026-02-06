@@ -154,7 +154,7 @@ while True:
                if user:
                     LMS_operation(user)
           case "3":
-               print("Goodbye!")
+               print("Exited!")
                break
           case _:
                print("Invalid choice.")
